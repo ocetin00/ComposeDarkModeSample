@@ -2,4 +2,4 @@
 Android compose dark mode sample
 
 Example of how to implement dark mode in the Compose app:
-Related medium article => <a href="aaaaa"/>
+[Click Related medium article](https://www.google.com)
